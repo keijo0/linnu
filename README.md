@@ -1,0 +1,2 @@
+# linnu
+linux kernel configurations 
