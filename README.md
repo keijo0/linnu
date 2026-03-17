@@ -10,5 +10,5 @@ Samsung SSD 980 1TB \
 KINGSTON 500G \
 Seagate 2TB BarraCuda @7200 \
 165hz asus VGA27AQ \
-280hz AG276QZD2
+280hz AG276QZD2 \
 no bs for kb or mouze
